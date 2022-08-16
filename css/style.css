@@ -225,13 +225,13 @@ header ul.nav li ul li a {
 
 .navbar .nav > .active > a,.navbar .nav > .active > a:hover {
 	background:none;
-	font-weight:1000;
+	font-weight:700;
 }
 
 .navbar .nav > .active > a:active,.navbar .nav > .active > a:focus {
 	background:none;
 	outline:0;
-	font-weight:1000;
+	font-weight:700;
 }
 
 .navbar .nav li .dropdown-menu {
